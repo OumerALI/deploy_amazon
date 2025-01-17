@@ -235,6 +235,7 @@
 
 /* Search Section */
 .search {
+ 
   display: flex;
   align-items: center;
   justify-content: center;
@@ -263,6 +264,7 @@
 }
 
 .search svg {
+  box-sizing: border-box;
   padding: 7px;
   background: #febd69;
   color: #1a1a1a;
